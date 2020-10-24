@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a Junior Web Developer studying at [Coder Academy](https://https://coderacademy.edu.au/)
+
+Looking forward to collaborate with other devs and work on exciting projects 
+
 <!--
 **DarkoAU/DarkoAU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
